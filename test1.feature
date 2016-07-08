@@ -1,7 +1,7 @@
 Feature: My first login test
-	As an tester
-	To start my testing
-	I need test scripts
+	As an tester..
+	To start my testing..
+	I need test scripts..
 
 Scenario: Input Username and Password
 	Given I have username: john and password: test1234
